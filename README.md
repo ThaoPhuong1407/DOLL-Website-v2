@@ -37,6 +37,9 @@ Open two terminals:
   - `NEXT_PUBLIC_CMS_URL` for published asset URLs
   - `CMS_API_TOKEN` (if you need a separate token for internal use)
 
+## Newcomer documentation
+- Start with `docs/NEWCOMER_GUIDE.md` for architecture and data-management workflows.
+
 ## Useful scripts
 - Frontend: `npm run lint`, `npm run build`, `npm run start`
 - CMS: `npm run develop`, `npm run build`, `npm run start`, `npm run console`, `node scripts/seed.js`
